@@ -8,6 +8,9 @@
     },
     {
       "path": "Default Base App Name"
+    },
+    {
+      "path": "Default Test App Name"
     }
   ],
   "settings": {}
